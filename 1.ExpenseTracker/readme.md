@@ -1,4 +1,4 @@
-Study about :
+# Study about :
 - Jsx
 - Component
 - Css Styling
